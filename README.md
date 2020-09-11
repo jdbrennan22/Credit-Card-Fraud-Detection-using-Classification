@@ -1,6 +1,4 @@
 # Credit Card Fraud Detection using Classification
-In this project, we analyze Credit Card Transactions from an anonymous European Cardholder. This dataset contains 284,807 rows, with 31 features, one being the target variable, which is a binary variable that indicates if the transaction is Fraudulent or not. This is the variable we are interested in predicting.
-As with many fraud-related data, this dataset is highly imbalanced, as there are much fewer fraudulent transactions than non-fraudulent transactions. More precisely, out of the 284,807 rows, only 0.17% of them are Fraudulent. Meaning, there are 485 fraudulent cases, with 284,322 legitimate transactions.  Additionally, as this type of data is naturally confidential, the variables have been made anonymous. To make this dataset anonymous, PCA was applied to reduce dimensionality (from an unspecified number of original columns), which also has a bonus effect of hiding column names. (This was done by the data provider)
 
 ## Group Partners:
 Samantha Soendoro (ssoendoro@ucdavis.edu)
@@ -8,7 +6,8 @@ Jordan Brennan (jdbrennan@ucdavis.edu)
 Kideok Kwon (kidkwon@ucdavis.edu)
 Yuyan Li (yuyli@ucdavis.edu)
 
-## Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
+## Dataset Link: 
+https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ## Description of Project:
 The goal of the project is to use a large dataset of credit card transactions to try and create an accurate and computationally feasible model to predict Fraudulent Transactions. This will be done through analysis of the given 30 possible predictor variables and experimenting with various classification algorithms to achieve the highest accuracy as possible. 
