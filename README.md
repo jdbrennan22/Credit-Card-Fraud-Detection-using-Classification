@@ -2,8 +2,11 @@
 
 ## Group Partners:
 Samantha Soendoro (ssoendoro@ucdavis.edu)
+
 Jordan Brennan (jdbrennan@ucdavis.edu)
+
 Kideok Kwon (kidkwon@ucdavis.edu)
+
 Yuyan Li (yuyli@ucdavis.edu)
 
 ## Dataset Link: 
@@ -26,5 +29,7 @@ Which Classification method works best for this dataset, in terms of computation
 
 ## Methodologies to be used:
 Data Cleaning/Processing: Imputing, Undersampling, etc
+
 Analysis: Canonical correlation analysis, ANOVA, etc
+
 Modeling: Logistic regression, LDA, Tree Methods, SVM.
